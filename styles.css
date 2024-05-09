@@ -2,4 +2,21 @@
 display: flex;
 padding: 30px;
 font-size: 24px;
-justify-content: space-around;}
+justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 100px;
+    height: 100px;
+}
+
+.cabecalho-item{
+    display: inline-block;
+    padding: 0 100px;
+    text-decoration: underline;
+}
+
+/*SECÇÃO TURMA*/
+.turma{background-image: linear-gradient(rgba(3, 10, 48, 0.705), rgba(182,));
+    padding: 30px;
+}
